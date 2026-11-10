@@ -1,0 +1,8 @@
+{
+  "name": "Izie Marketing e Branding",
+  "short_name": "Izie",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d2881"
+}

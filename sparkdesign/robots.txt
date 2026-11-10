@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://mmsystemlab.github.io/izie-propostas/sparkdesign/
+Sitemap: https://mmsystemlab.github.io/izie-propostas/sparkdesign/sitemap.xml

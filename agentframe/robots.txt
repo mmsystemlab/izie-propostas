@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /private/
+
+Host: https://mmsystemlab.github.io/izie-propostas/agentframe
+Sitemap: https://mmsystemlab.github.io/izie-propostas/agentframe/sitemap.xml
